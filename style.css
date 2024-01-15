@@ -1,0 +1,23 @@
+#paineis-sobre{
+    margin-top: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+.titulo-depoimentos{
+    background-color: blue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    margin-bottom: 0;
+    text-align: center;
+    font-size: 22px;
+}
+
+.rodape{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
